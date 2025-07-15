@@ -1,0 +1,20 @@
+{
+  "transactions": [
+    {
+      "id": "34af",
+      "title": "teste",
+      "price": 500,
+      "category": "teste",
+      "transactionType": "deposit",
+      "date": "17/05/2025"
+    },
+    {
+      "id": "7976",
+      "title": "computador",
+      "price": 2000,
+      "category": "Tecnologia",
+      "transactionType": "withdraw",
+      "date": "17/05/2025"
+    }
+  ]
+}
